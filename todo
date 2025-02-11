@@ -1,0 +1,12 @@
+When a song lyric is the same as a the title of another song, switch to the other song.
+
+Read lyrics at the timestamp of the song. If lyric is equal to a song name switch to the other song depending on options.
+
+Options:
+Percentage | Start the next song at the same place the first song is at. (e.x. Half way through the first song, will start halfway through the second song)
+Instance (First) | Will start the second song where it says the title of its song.
+Word count | Start the song on the same word count that the first song was at.
+
+Transition:
+Fade | Fade during the lyric so that both singers say the same lyric simultaneously.
+Hard cut | Hard cut from one song to the other. Either before the title, during the title or after the title.
