@@ -10,3 +10,9 @@ Word count | Start the song on the same word count that the first song was at.
 Transition:
 Fade | Fade during the lyric so that both singers say the same lyric simultaneously.
 Hard cut | Hard cut from one song to the other. Either before the title, during the title or after the title.
+
+
+DATABASE:
+id
+name | song name
+next_song | point to the id of the song that comes next in this path to save on computation time.
